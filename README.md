@@ -15,7 +15,7 @@ unplanned downtime and maintenance costs.
 ## 🛠️ Tech Stack
 - **Language:** Python
 - **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-- **Model Used:** [ Random Forest / SVM / XGBoost — jo tune use kiya ]
+- **Model Used:** Random Forest
 - **Tools:** Jupyter Notebook, GitHub
 
 ---
@@ -64,14 +64,14 @@ jupyter notebook notebooks/predictive_maintenance.ipynb
 ## 📈 Results
 | Model | Accuracy |
 |---|---|
-| [ Model Name ] | [ XX% ] |
+| [ Model Name ] | [ 0.9855% ] |
 
 ---
 
 ## 🎓 Developer
 **Pushkar Avhale**  
 B.Tech in Artificial Intelligence — RTMNU (2027)  
-📧 [ your email ]  
+📧 pushkaravhale9823@gmail.com 
 🔗 [LinkedIn](https://www.linkedin.com/in/pushkar-avhale)
 
 ---
