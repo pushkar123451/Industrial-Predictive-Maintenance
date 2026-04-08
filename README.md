@@ -1,6 +1,6 @@
 # 🏭 Industrial Predictive Maintenance System
 
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+![Status](https://img.shields.io/badge/Status-work%20complete-yellow)
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![ML](https://img.shields.io/badge/Machine%20Learning-Scikit--learn-orange)
 
