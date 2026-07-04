@@ -64,7 +64,7 @@ jupyter notebook notebooks/predictive_maintenance.ipynb
 ## 📈 Results
 | Model | Accuracy |
 |---|---|
-| Industrial Predictive Maintenance System | [ 0.9855% ] |
+| Industrial Predictive Maintenance System |  0.9855%  |
 
 ---
 
